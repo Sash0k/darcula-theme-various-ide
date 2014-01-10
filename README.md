@@ -5,3 +5,4 @@ darcula-theme-various-ide
 
 ##Supported Editors & IDEs
 - Lazarus (tested with trunk 1.3);
+- Geany (tested with trunk 1.23.1);
