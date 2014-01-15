@@ -5,4 +5,5 @@ darcula-theme-various-ide
 
 ##Supported Editors & IDEs
 - Lazarus (tested with trunk 1.3);
-- Geany (tested with trunk 1.23.1);
+- Geany (tested with 1.22+);
+- GtkSourceView (tested with Gedit 3.6.2+);
