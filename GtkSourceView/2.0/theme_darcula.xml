@@ -32,7 +32,7 @@
 
 	<style name="bracket-match" foreground="yellow" background="yellow_bg"/>
 	<style name="bracket-mismatch" background="error_color"/>
-	<style name="search-match" foreground="comment_color" background="text_fg"/>
+	<style name="search-match" background="#425F44"/>
 
 <!-- Comments -->
 	<style name="def:comment" foreground="gray_color"/>
