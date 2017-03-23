@@ -80,10 +80,10 @@
       </LangObjectPascal>
       <LangLazarus_Form_definition Version="9">
         <SchemeColorDarkula>
-          <Key Style="fsBold"/>
-          <Number Foreground="clBlue"/>
-          <String Foreground="clBlue"/>
-          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Key Foreground="2974155" Style="fsBold"/>
+          <Number Foreground="11171480"/>
+          <String Foreground="5277270"/>
+          <Comment Foreground="5609314" Style="fsItalic"/>
           <ahaGutter Background="clBtnFace"/>
           <ahaDefault Background="clNone" Foreground="clNone"/>
           <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
